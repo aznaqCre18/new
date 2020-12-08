@@ -1,0 +1,138 @@
+.box-trans {
+  width: 524px;
+  height: 150px;
+  left: 720px;
+  top: 77px;
+  background: #f6e6da;
+}
+
+.trans-img {
+  position: absolute;
+  width: 80px;
+  height: 120px;
+  left: 28px;
+  top: 14px;
+}
+
+.trans-title {
+  position: absolute;
+  width: 200px;
+  height: 19px;
+  left: 121px;
+  top: 19px;
+
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 19px;
+  display: flex;
+  align-items: center;
+
+  color: #613d2b;
+}
+
+.day-date {
+  position: absolute;
+  width: 200px;
+  height: 12px;
+  left: 121px;
+  top: 41px;
+
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 9px;
+  line-height: 12px;
+  display: flex;
+  align-items: center;
+
+  color: #613d2b;
+}
+
+.trans-price {
+  position: absolute;
+  width: 150px;
+  height: 14px;
+  left: 121px;
+  top: 73px;
+
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 10px;
+  line-height: 14px;
+  /* identical to box height */
+
+  color: #974a4a;
+}
+
+.trans-qty {
+  position: absolute;
+  width: 31px;
+  height: 14px;
+  left: 121px;
+  top: 91px;
+
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 10px;
+  line-height: 14px;
+  /* identical to box height */
+
+  color: #974a4a;
+}
+
+.trans-total {
+  position: absolute;
+  width: 91px;
+  height: 14px;
+  left: 121px;
+  top: 109px;
+
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 10px;
+  line-height: 14px;
+  /* identical to box height */
+
+  color: #974a4a;
+}
+
+.trans-ways {
+  position: absolute;
+  width: 73px;
+  height: 22px;
+  left: 418px;
+  top: 19px;
+}
+.qr {
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  left: 430px;
+  top: 51px;
+}
+
+.action {
+  position: absolute;
+  width: 150px;
+  height: 14px;
+  left: 416px;
+  top: 114px;
+
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 10px;
+  line-height: 14px;
+  /* identical to box height */
+
+  display: flex;
+  align-items: center;
+  text-align: center;
+
+  color: #ff9900;
+}
